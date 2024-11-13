@@ -1,5 +1,5 @@
 // URL del archivo XML en GitHub
-const url = 'PLATOS.xml';
+const url = 'https://raw.githubusercontent.com/RubenMonlau/DII---PAC-4/refs/heads/main/PLATOS.xml';
 
 
 // Funció per carregar i parsejar l'XML
