@@ -1,0 +1,200 @@
+<CARTA>
+    <GRUP>
+        <NOM>Entrants</NOM>
+        <PLAT>
+            <NOM>Braves</NOM>
+            <DESCRIPCIO>Mitges llunes de patata, fregides amb salsa brava lleugerament picant.</DESCRIPCIO>
+            <PREU>3.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Calamars</NOM>
+            <DESCRIPCIO>Calamars arrebossats amb llimona.</DESCRIPCIO>
+            <PREU>7.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Bombes</NOM>
+            <DESCRIPCIO>Bombes de patates amb allioli y salsa brava.</DESCRIPCIO>
+            <PREU>6.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Principals</NOM>
+            <PLAT>
+            <NOM>Fideuà</NOM>
+            <DESCRIPCIO>Fideus amb marisc i peix.</DESCRIPCIO>
+            <PREU>12.00</PREU>
+            </PLAT>
+            <PLAT>
+            <NOM>Entrecot</NOM>
+            <DESCRIPCIO>Entrecot de vedella a la brasa amb guarnició.</DESCRIPCIO>
+            <PREU>18.00</PREU>
+            </PLAT>
+            <PLAT>
+            <NOM>Bacallà</NOM>
+            <DESCRIPCIO>Bacallà amb samfaina.</DESCRIPCIO>
+            <PREU>15.00</PREU>
+            </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Postres</NOM>
+            <PLAT>
+            <NOM>Flam</NOM>
+            <DESCRIPCIO>Flam casolà amb nata.</DESCRIPCIO>
+            <PREU>4.00</PREU>
+            </PLAT>
+            <PLAT>
+            <NOM>Profiteroles</NOM>
+            <DESCRIPCIO>Profiteroles farcits de crema i coberts de xocolata.</DESCRIPCIO>
+            <PREU>5.00</PREU>
+            </PLAT>
+            <PLAT>
+            <NOM>Tiramisú</NOM>
+            <DESCRIPCIO>Dessert italià amb formatge mascarpone.</DESCRIPCIO>
+            <PREU>5.50</PREU>
+            </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Bebides</NOM>
+        <PLAT>
+            <NOM>Cervesa</NOM>
+            <DESCRIPCIO>Cervesa clara refrescant.</DESCRIPCIO>
+            <PREU>2.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Vi Negre</NOM>
+            <DESCRIPCIO>Vi negre de la casa, suau i afruitat.</DESCRIPCIO>
+            <PREU>4.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Refresc</NOM>
+            <DESCRIPCIO>Refresc de cola o taronja.</DESCRIPCIO>
+            <PREU>1.80</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Ensalades</NOM>
+        <PLAT>
+            <NOM>Ensalada Mediterrània</NOM>
+            <DESCRIPCIO>Ensalada de tomàquets, cogombre, olives i formatge feta.</DESCRIPCIO>
+            <PREU>7.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Ensalada César</NOM>
+            <DESCRIPCIO>Ensalada amb enciam, pollastre, crutons i salsa César.</DESCRIPCIO>
+            <PREU>8.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Ensalada d'Atún</NOM>
+            <DESCRIPCIO>Ensalada amb atún, enciam, ou dur i ceba.</DESCRIPCIO>
+            <PREU>6.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM> Sopes</NOM>
+        <PLAT>
+            <NOM>Sopa de Marisc</NOM>
+            <DESCRIPCIO>Sopa calenta amb mariscos i verdures.</DESCRIPCIO>
+            <PREU>9.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Sopa de Ceba</NOM>
+            <DESCRIPCIO>Sopa de ceba gratinada amb formatge.</DESCRIPCIO>
+            <PREU>6.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Crema de Carbassa</NOM>
+            <DESCRIPCIO>Crema suau de carbassa, ideal per a l'hivern.</DESCRIPCIO>
+            <PREU>5.00</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Menjar Ràpid</NOM>
+        <PLAT>
+            <NOM>Hamburguesa Clàssica</NOM>
+            <DESCRIPCIO>Hamburguesa de carn de vedella amb enciam, tomàquet i maionesa.</DESCRIPCIO>
+            <PREU>7.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Hot Dog</NOM>
+            <DESCRIPCIO>Frankfurt amb mostassa i ketchup.</DESCRIPCIO>
+            <PREU>3.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Pizza Margarita</NOM>
+            <DESCRIPCIO>Pizza amb tomàquet, formatge mozzarella i alfàbrega.</DESCRIPCIO>
+            <PREU>9.50</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Sàndwiches</NOM>
+        <PLAT>
+            <NOM>Sàndwich de Pollastre</NOM>
+            <DESCRIPCIO>Pollastre a la brasa amb enciam, tomàquet i maionesa en pa integral.</DESCRIPCIO>
+            <PREU>6.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Sàndwich Vegetal</NOM>
+            <DESCRIPCIO>Tomàquet, enciam, cogombre i alvocat en pa integral.</DESCRIPCIO>
+            <PREU>5.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Sàndwich de Pernil i Formatge</NOM>
+            <DESCRIPCIO>Pernil i formatge en pa torrat.</DESCRIPCIO>
+            <PREU>4.50</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Aperitius</NOM>
+        <PLAT>
+            <NOM>Ensaladilla Russa</NOM>
+            <DESCRIPCIO>Ensaladilla amb patates, pastanaga, pèsols i maionesa.</DESCRIPCIO>
+            <PREU>4.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Olives</NOM>
+            <DESCRIPCIO>Olives variades.</DESCRIPCIO>
+            <PREU>2.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Almejes a la Planxa</NOM>
+            <DESCRIPCIO>Almejes fresques a la planxa amb all i julivert.</DESCRIPCIO>
+            <PREU>7.50</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Vegan</NOM>
+        <PLAT>
+            <NOM>Hamburguesa Vegana</NOM>
+            <DESCRIPCIO>Hamburguesa vegetal amb enciam, tomàquet i maionesa vegana.</DESCRIPCIO>
+            <PREU>8.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Ensalada Vegana</NOM>
+            <DESCRIPCIO>Ensalada fresca amb quinoa, cigrons, tomàquet i alvocat.</DESCRIPCIO>
+            <PREU>9.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Tofu a la Planxa</NOM>
+            <DESCRIPCIO>Tofu marinat i a la planxa servit amb arròs integral.</DESCRIPCIO>
+            <PREU>7.50</PREU>
+        </PLAT>
+    </GRUP>
+    <GRUP>
+        <NOM>Especialitats</NOM>
+        <PLAT>
+            <NOM>Paella Valenciana</NOM>
+            <DESCRIPCIO>Paella d'arròs amb mariscos, pollastre i verdures.</DESCRIPCIO>
+            <PREU>14.00</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Arròs Negre</NOM>
+            <DESCRIPCIO>Arròs caldós amb sípia i tinta de calamar.</DESCRIPCIO>
+            <PREU>13.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Churros amb Xocolata</NOM>
+            <DESCRIPCIO>Churros casolans acompanyats de xocolata calenta.</DESCRIPCIO>
+            <PREU>5.00</PREU>
+        </PLAT>
+    </GRUP>
+</CARTA>
